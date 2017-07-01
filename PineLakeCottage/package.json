@@ -1,0 +1,9 @@
+{
+  "name": "pine-lake-cottage",
+  "version": "0.0.0",
+  "description": "PineLakeCottage",
+  "main": "app.js",
+  "author": {
+    "name": "tuley"
+  }
+}

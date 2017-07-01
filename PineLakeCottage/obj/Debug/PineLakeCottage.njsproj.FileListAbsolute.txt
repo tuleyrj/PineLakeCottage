@@ -1,0 +1,2 @@
+C:\Users\tuley\Documents\Visual Studio 2017\Projects\PineLakeCottage\PineLakeCottage\obj\Debug\PineLakeCottage.njsprojResolveAssemblyReference.cache
+C:\Users\tuley\Documents\Visual Studio 2017\Projects\PineLakeCottage\PineLakeCottage\bin\Microsoft.NodejsTools.WebRole.dll
